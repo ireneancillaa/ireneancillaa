@@ -10,7 +10,7 @@ I’m a passionate **Mobile Application and Technology** student who loves creat
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,kotlin,swift,flutter,sqlite,firebase,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=html,kotlin,swift,flutter,sqlite,firebase,github,vscode" />
 </p>
 
 ---
