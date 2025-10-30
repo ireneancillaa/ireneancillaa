@@ -4,8 +4,7 @@
 ---
 
 ### 👩🏻‍💻 About Me
-I’m a passionate **Mobile Application and Technology** student who loves creating user-friendly digital solutions.  
-With interests in **Mobile App Development, Web Programming, and UI/UX design**, I enjoy building impactful projects and growing as a versatile developer.
+I’m a passionate **Mobile Application and Technology** student who loves creating user-friendly digital solutions. With interests in **Mobile App Development, Web Programming, and UI/UX design**, I enjoy building impactful projects and growing as a versatile developer.
 
 ---
 
@@ -34,7 +33,7 @@ With interests in **Mobile App Development, Web Programming, and UI/UX design**,
 ---
 
 ### ✨ Fun Fact
-I’m always curious about how small ideas can turn into meaningful digital experiences 🌸  
+I’m always curious about how small ideas can turn into meaningful digital experiences 🌸
 Let’s connect and build something amazing together!
 
 ---
