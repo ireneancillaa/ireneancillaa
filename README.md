@@ -10,7 +10,7 @@ I’m a passionate **Mobile Application and Technology** student who loves creat
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,swift,flutter,dart,sqlite,firebase,git,github,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=html,kotlin,swift,flutter,sqlite,firebase,git,github,vscode,androidstudio" />
 </p>
 
 ---
@@ -33,7 +33,7 @@ I’m a passionate **Mobile Application and Technology** student who loves creat
 ---
 
 ### ✨ Fun Fact
-I’m always curious about how small ideas can turn into meaningful digital experiences 🌸
+I’m always curious about how small ideas can turn into meaningful digital experiences 🌸  
 Let’s connect and build something amazing together!
 
 ---
