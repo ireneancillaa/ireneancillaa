@@ -27,8 +27,8 @@ With interests in **Mobile App Development, Web Programming, and UI/UX design**,
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ireneancilla&show_icons=true&theme=rose_pine" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ireneancilla&layout=compact&theme=rose_pine" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ireneancillaa&show_icons=true&theme=rose_pine" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ireneancillaa&layout=compact&theme=rose_pine" height="150"/>
 </p>
 
 ---
@@ -40,5 +40,5 @@ Let’s connect and build something amazing together!
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ireneancilla&color=ff69b4&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ireneancillaa&color=ff69b4&style=flat-square" alt="profile views" />
 </p>
