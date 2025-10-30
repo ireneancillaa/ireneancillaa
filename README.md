@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Irene 👋</h1>
-<h3 align="center">Mobile Application & Technology Student | Aspiring App Developer | Event Organizer</h3>
+<h3 align="center">Mobile Application & Technology Student</h3>
 
 ---
 
