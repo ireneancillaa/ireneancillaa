@@ -26,8 +26,7 @@ I’m a passionate **Mobile Application and Technology** student who loves creat
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ireneancillaa&show_icons=true&theme=rose_pine" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ireneancillaa&layout=compact&theme=rose_pine" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=ireneancillaa&theme=dark&hide_border=true" alt="ireneancillaa's GitHub Stats" />
 </p>
 
 ---
